@@ -1,0 +1,15 @@
+[project]
+name = "bnhr-geopython-ml-exercises"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "earthengine-api>=1.7.15",
+    "geemap>=0.37.1",
+    "geoai-py>=0.31.1",
+    "jupyterlab>=4.5.5",
+    "marimo>=0.20.2",
+    "scikit-learn>=1.8.0",
+    "tensorflow>=2.20.0",
+]

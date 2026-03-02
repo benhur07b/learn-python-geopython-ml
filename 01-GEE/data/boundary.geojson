@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lingayen Area",
+        "province": "Pangasinan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [120.10, 15.90],
+            [120.45, 15.90],
+            [120.45, 16.20],
+            [120.10, 16.20],
+            [120.10, 15.90]
+          ]
+        ]
+      }
+    }
+  ]
+}
