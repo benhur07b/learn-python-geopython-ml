@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "Cl_Id": 0, "class_name": "Rice Paddies", "ml_label": 0, "ml_class": "Non-Corn" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [120.14, 15.94],
+            [120.17, 15.94],
+            [120.17, 15.965],
+            [120.14, 15.965],
+            [120.14, 15.94]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Cl_Id": 0, "class_name": "Rice Paddies", "ml_label": 0, "ml_class": "Non-Corn" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [120.25, 15.98],
+            [120.28, 15.98],
+            [120.28, 16.005],
+            [120.25, 16.005],
+            [120.25, 15.98]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Cl_Id": 0, "class_name": "Rice Paddies", "ml_label": 0, "ml_class": "Non-Corn" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [120.33, 15.93],
+            [120.36, 15.93],
+            [120.36, 15.955],
+            [120.33, 15.955],
+            [120.33, 15.93]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Cl_Id": 1, "class_name": "Corn / Maize", "ml_label": 1, "ml_class": "Corn / Maize" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [120.19, 16.05],
+            [120.22, 16.05],
+            [120.22, 16.075],
+            [120.19, 16.075],
+            [120.19, 16.05]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Cl_Id": 1, "class_name": "Corn / Maize", "ml_label": 1, "ml_class": "Corn / Maize" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [120.30, 16.00],
+            [120.33, 16.00],
+            [120.33, 16.025],
+            [120.30, 16.025],
+            [120.30, 16.00]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Cl_Id": 1, "class_name": "Corn / Maize", "ml_label": 1, "ml_class": "Corn / Maize" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [120.38, 15.97],
+            [120.41, 15.97],
+            [120.41, 15.995],
+            [120.38, 15.995],
+            [120.38, 15.97]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Cl_Id": 2, "class_name": "Other Vegetation / Trees", "ml_label": 0, "ml_class": "Non-Corn" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [120.40, 16.07],
+            [120.43, 16.07],
+            [120.43, 16.095],
+            [120.40, 16.095],
+            [120.40, 16.07]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Cl_Id": 2, "class_name": "Other Vegetation / Trees", "ml_label": 0, "ml_class": "Non-Corn" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [120.11, 16.07],
+            [120.14, 16.07],
+            [120.14, 16.095],
+            [120.11, 16.095],
+            [120.11, 16.07]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Cl_Id": 3, "class_name": "Built-up / Bare Land", "ml_label": 0, "ml_class": "Non-Corn" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [120.22, 16.01],
+            [120.25, 16.01],
+            [120.25, 16.035],
+            [120.22, 16.035],
+            [120.22, 16.01]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Cl_Id": 3, "class_name": "Built-up / Bare Land", "ml_label": 0, "ml_class": "Non-Corn" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [120.29, 15.95],
+            [120.32, 15.95],
+            [120.32, 15.975],
+            [120.29, 15.975],
+            [120.29, 15.95]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Cl_Id": 3, "class_name": "Built-up / Bare Land", "ml_label": 0, "ml_class": "Non-Corn" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [120.17, 15.97],
+            [120.20, 15.97],
+            [120.20, 15.995],
+            [120.17, 15.995],
+            [120.17, 15.97]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Cl_Id": 4, "class_name": "Water / Fishponds", "ml_label": 0, "ml_class": "Non-Corn" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [120.13, 16.13],
+            [120.16, 16.13],
+            [120.16, 16.155],
+            [120.13, 16.155],
+            [120.13, 16.13]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Cl_Id": 4, "class_name": "Water / Fishponds", "ml_label": 0, "ml_class": "Non-Corn" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [120.21, 16.14],
+            [120.24, 16.14],
+            [120.24, 16.165],
+            [120.21, 16.165],
+            [120.21, 16.14]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Cl_Id": 4, "class_name": "Water / Fishponds", "ml_label": 0, "ml_class": "Non-Corn" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [120.30, 16.13],
+            [120.33, 16.13],
+            [120.33, 16.155],
+            [120.30, 16.155],
+            [120.30, 16.13]
+          ]
+        ]
+      }
+    }
+  ]
+}
